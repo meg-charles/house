@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Syne Mono', monospace;
+}
+
+#index{
+  background-color: black;
+}
+
+#garden{
+  background-image: url("night.jpg")
+}
+
+#gold{
+  background-image: url("gold.jpg")
+}
+
+h1{color:white;
+font-size: 50px;
+font-family: 'Syne Mono', monospace;
+background-image:url("cobweb1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-color:black;
+border-color:grey;
+border-width:10px;
+border-style: solid;
+border-radius: 30px;
+padding:20px;
+margin:30px;}
+p{color:white;}
+
+a{
+  color: white;
+}
